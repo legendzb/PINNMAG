@@ -1,0 +1,1 @@
+This is the result of modeling the geomagnetic field using four kinds of neural networks. The user can run the load_model_and_predict.py code to call the model and predict the four components of the geomagnetic field
